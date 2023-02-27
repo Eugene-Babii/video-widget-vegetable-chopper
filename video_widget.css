@@ -327,7 +327,7 @@ body.lock {
   font-style: normal;
   background: #ffffff;
   height: 100%;
-  z-index: 9999;
+  z-index: 20001;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
 }
